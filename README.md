@@ -55,5 +55,8 @@ Direttore
 username: isidoro.dimitri
 password: prova123
 
+## IMPORTANTE
+Per inserire l'immagine durante la creazione del nuovo piatto inserirla nella cartella IMG.
+
 ## Roadmap
 Quarta parte di cinque.
