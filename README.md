@@ -15,6 +15,9 @@ Pagina che viene visualizzata in base al tipo di utente che tu sei.
   ![img3](https://user-images.githubusercontent.com/79881013/119350886-223acc00-bca0-11eb-81ff-ab9a93a93f66.PNG)
   ![img4](https://user-images.githubusercontent.com/79881013/119350900-249d2600-bca0-11eb-9049-6cd13bbbb2fb.PNG)
 
+## Pagina riservata al direttore per inserire un nuovo post!!
+  ![img8](https://user-images.githubusercontent.com/79881013/119352168-a2adfc80-bca1-11eb-952d-ab3743dacd79.PNG)
+
 ## login
 
   ![img5](https://user-images.githubusercontent.com/79881013/119351341-aab96c80-bca0-11eb-8e9e-2651f7bc1cc9.PNG)
@@ -41,7 +44,7 @@ Pagina "Cosa Mangio?"
 
 ## Installation
 
-Per utilizzare il sito, bisogna scaricare tutti i file, utilizzare un DB locale ed inserire le proprie credenziali del DB su Credenziali.php.
+Per utilizzare il sito, bisogna scaricare tutti i file, utilizzare un DB locale ed inserire le proprie credenziali del DB su Credenziali.php e avviare tramite browser localhost/home.php .
 
 ## Roadmap
 Quarta parte di cinque.
