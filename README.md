@@ -2,9 +2,10 @@
 
 ## Home
 Pagina che viene visualizzata in base al tipo di utente che tu sei.
- Visitatore
- Utente loggato
- Direttore
+
+Visitatore
+Utente loggato
+Direttore
 
 1) Visitatore: Può vedere i piatti, il numero di like e le recensioni di ogni piatto.
   ![img1](https://user-images.githubusercontent.com/79881013/119350220-59f54400-bc9f-11eb-90a4-d238da26f77e.PNG)
