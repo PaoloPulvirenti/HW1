@@ -14,19 +14,22 @@ Pagina che viene visualizzata in base al tipo di utente che tu sei.
 3) Direttore: oltre a vedere quello che vedono i visitatori , può creare un nuovo piatto, eliminarlo.
   ![img3](https://user-images.githubusercontent.com/79881013/119350886-223acc00-bca0-11eb-81ff-ab9a93a93f66.PNG)
   ![img4](https://user-images.githubusercontent.com/79881013/119350900-249d2600-bca0-11eb-9049-6cd13bbbb2fb.PNG)
+
+## login
+
+  ![img5](https://user-images.githubusercontent.com/79881013/119351341-aab96c80-bca0-11eb-8e9e-2651f7bc1cc9.PNG)
+
+
+
+## sing up
   
-  
+  ![img6](https://user-images.githubusercontent.com/79881013/119351393-b5740180-bca0-11eb-8588-c6d39163b7bf.PNG)
 
-Ho utilizzato 3 API tramite i seguenti link:
+## profilo utente
 
-Spotify -> https://developer.spotify.com/documentation/
+  ![img7](https://user-images.githubusercontent.com/79881013/119351525-da687480-bca0-11eb-957a-1eda9f867dca.PNG)
 
-Piatto Random  -> https://foodish-api.herokuapp.com/
-
-Altri Piatti ->https://spoonacular.com/food-api
-
-
-## Visuals
+## altre pagine
 Pagina "Sale"
 ![SEZION3](https://user-images.githubusercontent.com/79881013/116103775-33e48000-a6b0-11eb-814a-480a98a974fe.PNG)
 ![SEZION4](https://user-images.githubusercontent.com/79881013/116103833-3e9f1500-a6b0-11eb-9cff-1978e063a0fb.PNG)
@@ -38,10 +41,7 @@ Pagina "Cosa Mangio?"
 
 ## Installation
 
-Per visualizzare la grafica della home page scaricare tutti i file e metterli in un'unica cartella che dovrà essere situata in: C:\xampp\htdocs e 
-aprire il browser Google Chrome e digitare "localhost/nomecartella/index.html".
-
-Per avviare la pagina, dopo aver scaricato tutti i file, avviare index.html e tramite i link nel menù è possibile spostarsi da una pagina all'altra.
+Per utilizzare il sito, bisogna scaricare tutti i file, utilizzare un DB locale ed inserire le proprie credenziali del DB su Credenziali.php.
 
 ## Roadmap
-Terza parte di cinque.
+Quarta parte di cinque.
