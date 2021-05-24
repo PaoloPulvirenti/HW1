@@ -47,11 +47,11 @@ Pagina "Cosa Mangio?"
 Per utilizzare il sito, bisogna scaricare tutti i file, utilizzare un DB locale ed inserire le proprie credenziali del DB su Credenziali.php e avviare tramite browser localhost/home.php .
 ## Dati per provare il sito!
 
-###Utente
+Utente
 username: paololiberty
 password: prova123
 
-###Direttore
+Direttore
 username: isidoro.dimitri
 password: prova123
 
